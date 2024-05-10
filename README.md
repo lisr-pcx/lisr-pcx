@@ -1,8 +1,7 @@
 maps lover,<br />
-music addicted,<br />
+music, biking,<br />
 sometimes I write code.<br />
 <br />
-:bicyclist:<br />
 (kind of) fw developer.. Here for fun<br />
 C // C++ // ADA<br />
 <br />
