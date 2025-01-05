@@ -1,5 +1,4 @@
-maps lover,<br />
-music, biking,<br />
+maps lover, music, biking,<br />
 sometimes I write code.<br />
 <br />
 (kind of) fw developer.. Here for fun<br />
